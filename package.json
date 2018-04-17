@@ -1,7 +1,7 @@
 {
     "name": "reactools",
     "displayName": "ReacTools",
-    "description": "Tools to debug React RealTime while developing the application.",
+    "description": "RealTime React Application Information",
     "version": "0.0.1",
     "publisher": "BMP",
     "engines": {
